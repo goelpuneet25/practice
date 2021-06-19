@@ -10,7 +10,7 @@ III.	3rd round is also a technical round.
 Process Description/Procedure: -
 1.	Book a slot using this link. 
 2.	You will receive a mail that will contain the link to the test. You must complete that test before next 48 hours after receiving the mail.
-3.	Once your test is submitted, you can book slot for your technical rounds using this link. If wanted to prepare for any particular company or subjects please provide the same in the booking form only, so that we will prepare your interview questions accordingly
+3.	Once your test is submitted, you can book slot for your technical rounds using this link. If wanted to prepare for any specific company or subjects please provide the same in the booking form only, so that we will prepare your interview questions accordingly
 4.	For further details on interview rounds please refer these links link1, link2, link3.
 
 NOTE: -
