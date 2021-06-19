@@ -17,4 +17,4 @@ NOTE: -
 1.	Even if you didn’t perform well in any step, still we will conduct the complete procedure to provide a complete experience of any company hiring process.
 2.	After completing the test, you will receive complete feedback about your technical knowledge via e-mail
 5.	If you book this session more than once, in each later session we will enhance the level of difficulty of interview questions and make sure that you are always improving
-![image](https://user-images.githubusercontent.com/33444055/122652825-88f7bc00-d15e-11eb-864a-bea307dd03ca.png)
+
